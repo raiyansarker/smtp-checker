@@ -1,0 +1,97 @@
+/*
+    * This document is written by Raiyan Sarker
+    * Visit raiyansarker.com
+    * Help me by donating: mail me here: contact.raiyansarker@gmail.com
+*/
+
+
+/* Custom CSS */
+
+
+/* Google Fonts */
+
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@400;600&display=swap');
+*,
+html,
+body {
+    padding: 0;
+    margin: 0;
+}
+
+body {
+    font-family: 'Open Sans', sans-serif;
+    color: black;
+    font-weight: normal;
+}
+
+#logo {
+    font-weight: 600;
+    padding: 20px 0;
+}
+
+.menu {
+    font-size: 21px;
+    font-weight: 450;
+    border-bottom: 1px dotted #ccc;
+}
+
+form {
+    margin-top: 25px;
+}
+
+.padding-top {
+    padding-top: 7px;
+}
+
+.btn {
+    margin: 10px 0;
+}
+
+.btn-facebook {
+    color: white;
+    background-color: rgb(87, 120, 185);
+    transition: ease-out;
+}
+
+.btn-facebook:hover {
+    background-color: #4267B2;
+    transition: ease-in;
+    color: white;
+}
+
+.btn-instagram {
+    color: white;
+    background-color: rgb(243, 97, 92);
+    transition: ease-out;
+}
+
+.btn-instagram:hover {
+    transition: ease-in;
+    color: white;
+    background-color: #F34E49;
+}
+
+.footer {
+    min-height: 70px;
+    width: 100%;
+    color: white;
+    font-size: 21px;
+    background-color: #04091E;
+}
+
+.footer p {
+    margin-top: 17px;
+}
+
+.footer-links {
+    margin-top: 8px;
+    text-align: right;
+}
+
+@media (max-width:768px) {
+    .footer-links {
+        text-align: center;
+        margin-top: 0;
+        margin-bottom: 5px;
+    }
+}
