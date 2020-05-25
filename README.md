@@ -1,4 +1,4 @@
-# __SMTP Checker – A tool which will help me whether your smtp is working or not__  
+# __SMTP Checker – A tool which will help you whether your smtp is working or not__  
 ### Features  
 1. Easy to use
 2. Minimalistic design
