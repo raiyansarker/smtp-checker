@@ -12,7 +12,7 @@ Many developers just got or bought SMTP server and they used it on the internet.
 Formatting email correctly is surprisingly difficult. There are myriad overlapping RFCs, requiring tight adherence to horribly complicated formatting and encoding rules – the vast majority of code that you'll find online that uses the `mail()` function directly is just plain wrong!  
 After all these problems, finding the exact error for your local server is a bit hard and here comes this tool.
 ### License  
-This tool uses `GPL` license. Please read LICENSE for information on the software availability and distribution.
+This tool uses `MIT` license. Please read LICENSE for information on the software availability and distribution.
 ### Installation  
 Use git clone or download the package and start your local server. And you will be good to go! Here is a demo: [Click Here](https://app.raiyansarker.com/?dir=smtp)
 ### Donation  
